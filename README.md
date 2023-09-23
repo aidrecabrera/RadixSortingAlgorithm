@@ -5,6 +5,8 @@
 
 This repository contains a Java implementation of the Radix Sort algorithm for sorting integer arrays. Radix Sort is a non-comparative sorting algorithm that sorts numbers based on their digits.
 
+https://github.com/aidrecabrera/RadixSortingAlgorithm/assets/61798731/72cbacb2-8686-4350-b63e-7b9fb3638d0d
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -85,7 +87,7 @@ Example usage:
 
 ```java
 public static void main(String[] args) {
-    int[] array = {170, 45, 75, 90, 802, 24, 2, 66};
+    int[] array = { 274, 1024, 1377, 2698, 1936, 749, 1157, 2106, 2424, 1854 };
     int size = array.length;
 
     RadixSort sorter = new RadixSort();
@@ -95,3 +97,4 @@ public static void main(String[] args) {
     System.out.println(Arrays.toString(array));
 }
 ```
+
