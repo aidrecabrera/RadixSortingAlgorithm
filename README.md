@@ -1,9 +1,17 @@
-# Radix Radicals: Radix Sort Java Implementation
+<h1 align="center">Radix Radicals: Radix Sort Java Implementation</h1>
 
-![GitHub](https://img.shields.io/github/license/aidrecabrera/radixsortingalgorithm)
-![GitHub last commit](https://img.shields.io/github/last-commit/aidrecabrera/radixsortingalgorithm)
 
-This repository contains a Java implementation of the Radix Sort algorithm for sorting integer arrays. Radix Sort is a non-comparative sorting algorithm that sorts numbers based on their digits.
+
+<div align="center">
+
+  <a href="https://github.com/aidrecabrera/RadixSortingAlgorithm/blob/master/src/RadixSort.java">![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)</a>
+  <a href="[https://www.w3schools.com](https://malayancollegesmindanaoo365-my.sharepoint.com/:v:/g/personal/pdvillorente_mcm_edu_ph/EegsrpD_U41DoKdZ190r4xQBQ6BXXk-BjPtVJ408ZRh7Pw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=0wYmsB)">![OneDrive](https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white)</a>
+  <a href="https://www.youtube.com/watch?v=s1_yGrJVkhI&t=4s">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
+
+
+</div>
+
+This repository contains a Java implementation of the Radix Sort algorithm for sorting integer arrays. Radix Sort is a non-comparative sorting algorithm that sorts numbers based on their digits. This is a supplementary material for the Radix Radicals Algorithm Simulation for DSA.
 
 https://github.com/aidrecabrera/RadixSortingAlgorithm/assets/61798731/72cbacb2-8686-4350-b63e-7b9fb3638d0d
 
@@ -35,7 +43,7 @@ The Java code in this repository provides a straightforward implementation of Ra
  * @param place The current digit position for sorting.
  */
 void countingSort(int[] array, int size, int place) {
-    // ... Implementation ...
+    // ... Implementation ... 
 }
 ```
 
