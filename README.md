@@ -1,4 +1,4 @@
-# Radix Sort Java Implementation
+# Radix Radicals: Radix Sort Java Implementation
 
 ![GitHub](https://img.shields.io/github/license/aidrecabrera/radixsortingalgorithm)
 ![GitHub last commit](https://img.shields.io/github/last-commit/aidrecabrera/radixsortingalgorithm)
